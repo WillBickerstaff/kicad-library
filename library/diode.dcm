@@ -1,9 +1,51 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BAS40TW
+D Schottky diode array 3 independent
+K diode schottky
+F http://www.diodes.com/datasheets/ds30156.pdf
+$ENDCMP
+#
+$CMP BAS70-08
+D Low LCR schottky diode array 3 independent
+K diode schottky
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00126117.pdf
+$ENDCMP
+#
+$CMP BAS70TW
+D Schottky diode array 3 independent
+K diode schottky
+F http://www.diodes.com/datasheets/ds30158.pdf
+$ENDCMP
+#
+$CMP BAT754L
+D Schottky diode array 3 independent
+K diode schottky
+F http://www.nxp.com/documents/data_sheet/BAT754L.pdf
+$ENDCMP
+#
 $CMP BAV99
 D BAV99 High-speed switching diodes
 K diode
 F www.nxp.com/documents/data_sheet/BAV99_SER.pdf
+$ENDCMP
+#
+$CMP Central_Semi_CMKD6263
+D Triple isolated HV schottky diode array 3 independent
+K diode schottky
+F http://www.centralsemi.com/pdf/CMKD6263.pdf
+$ENDCMP
+#
+$CMP Central_Semi_CMKSH-3T
+D Triple isolated schottky diode array 3 independent
+K diode schottky
+F http://www.centralsemi.com/pdf/CMKSH-3T.pdf
+$ENDCMP
+#
+$CMP ON_Semi_NSR15TW1
+D RF schottky diode array 3 independent
+K diode schottky
+F http://www.onsemi.com/pub_link/Collateral/NSR15TW1-D.PDF
 $ENDCMP
 #
 #End Doc Library
