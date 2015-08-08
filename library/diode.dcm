@@ -48,6 +48,18 @@ K diode schottky
 F http://www.centralsemi.com/pdf/CMKSH-3T.pdf
 $ENDCMP
 #
+$CMP NXP_1PS66SB82
+D Low C schottky diode array 3 independent
+K diode schottky
+F http://www.nxp.com/documents/data_sheet/1PS66SB82_1PS88SB82.pdf
+$ENDCMP
+#
+$CMP NXP_1PS88SB82
+D Low C schottky diode array 3 independent
+K diode schottky
+F http://www.nxp.com/documents/data_sheet/1PS66SB82_1PS88SB82.pdf
+$ENDCMP
+#
 $CMP ON_Semi_NSR15TW1
 D RF schottky diode array 3 independent
 K diode schottky
