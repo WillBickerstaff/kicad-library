@@ -18,6 +18,12 @@ K diode
 F www.nxp.com/documents/data_sheet/BAV99_SER.pdf
 $ENDCMP
 #
+$CMP Central_Semi_CMKD4448
+D High speed switching diode array 3 independent
+K diode
+F http://www.centralsemi.com/PDFs/products/CMKD4448.PDF
+$ENDCMP
+#
 $CMP Central_Semi_CMKD6001
 D Ultra low leakage switching diode array 3 independent
 K diode
@@ -28,6 +34,18 @@ $CMP Comchip_ACDSV6-4448TI-G
 D Small signal switching diode array 3 independent
 K diode
 F http://www.comchiptech.com/cms/UserFiles/ACDSV6-4448TI-G%20RevA285610.pdf
+$ENDCMP
+#
+$CMP Comchip_CDSV6-4148-G
+D Fast switching diode array 3 independent
+K diode
+F http://www.comchiptech.com/cms/UserFiles/CDSV6-16-G,4148-G%20RevA272279.pdf
+$ENDCMP
+#
+$CMP Comchip_CDSV6-4448TI-G
+D High speed switching diode array 3 independent
+K diode
+F http://www.comchiptech.com/cms/UserFiles/CDSV6-4448XX-G%20RevC285574.pdf
 $ENDCMP
 #
 $CMP MMBD4148TW
@@ -46,6 +64,12 @@ $CMP ON_Semi_HN2D02FUTW1T1G
 D Ultra high speed switching diode array 3 independent
 K diode
 F http://www.onsemi.com/pub_link/Collateral/HN2D02FUTW1T1-D.PDF
+$ENDCMP
+#
+$CMP Toshiba_HN2D02FU
+D Ultra high speed switching diode array 3 independent
+K diode
+F http://www.toshiba.com/taec/components2/Datasheet_Sync/200908/DST_HN2D02FU-TDE_EN_1906.pdf
 $ENDCMP
 #
 #End Doc Library
