@@ -1,9 +1,33 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BAS16TW
+D Fast switching diode array 3 independent
+K diode
+F http://www.diodes.com/datasheets/ds30154.pdf
+$ENDCMP
+#
+$CMP BAS16VY
+D Fast switching diode array 3 independent
+K diode
+F http://www.nxp.com/documents/data_sheet/BAS16_SER.pdf
+$ENDCMP
+#
 $CMP BAV99
 D BAV99 High-speed switching diodes
 K diode
 F www.nxp.com/documents/data_sheet/BAV99_SER.pdf
+$ENDCMP
+#
+$CMP MMBD4148TW
+D Fast switching diode array 3 independent
+K diode
+F http://www.diodes.com/datasheets/ds30154.pdf
+$ENDCMP
+#
+$CMP MMBD4448HTW
+D Fast switching diode array 3 independent
+K diode
+F http://www.diodes.com/datasheets/ds30153.pdf
 $ENDCMP
 #
 #End Doc Library
