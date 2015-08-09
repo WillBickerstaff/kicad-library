@@ -170,4 +170,29 @@ K diode schottky
 F http://www.onsemi.com/pub_link/Collateral/NSR15TW1-D.PDF
 $ENDCMP
 #
+$CMP BAS40DW-05
+D Fast switching Schottky diode array 2 pair Com K
+K diode Schottky
+F http://www.diodes.com/datasheets/ds30156.pdf
+$ENDCMP
+#
+$CMP BAS70DW-05
+D Fast switching Schottky diode array 2 pair Com K
+K diode Schottky
+F http://www.diodes.com/datasheets/ds30158.pdf
+$ENDCMP
+#
+$CMP BAT54CDW
+D Fast switching Schottky diode array 2 pair Com K
+K diode Schottky
+F http://www.diodes.com/datasheets/ds30152.pdf
+$ENDCMP
+#
+$CMP Comchip_CDBV6-54CD-G
+D Fast switching Schottky diode array 2 pair Com K
+K diode Schottky
+F http://www.comchiptech.com/cms/UserFiles/CDBV6-54T,AD,CD,SD,BR-G%20RevA695802.pdf
+$ENDCMP
+#
+#
 #End Doc Library
