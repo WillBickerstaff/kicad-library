@@ -194,5 +194,41 @@ K diode Schottky
 F http://www.comchiptech.com/cms/UserFiles/CDBV6-54T,AD,CD,SD,BR-G%20RevA695802.pdf
 $ENDCMP
 #
+$CMP BAV70S
+D High speed switching diode array 2 pair Com K
+K diode
+F http://www.nxp.com/documents/data_sheet/BAV70_SER.pdf
+$ENDCMP
+#
+$CMP BAV70DW
+D Fast switching diode array 2 pair Com K
+K diode
+F http://www.diodes.com/datasheets/ds30132.pdf
+$ENDCMP
+#
+$CMP MMBD4448HCDW
+D Fast switching diode array 2 pair Com K
+K diode
+F http://www.diodes.com/datasheets/ds30153.pdf
+$ENDCMP
+#
+$CMP Rohm_UMN11N
+D Ultra high speed switching diode array 2 pair Com K
+K diode
+F http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/diode/switching/umn11n.pdf
+$ENDCMP
+#
+$CMP Toshiba_HN1D02FU
+D High speed switching diode array 2 pair Com K
+K diode
+F http://www.semicon.toshiba.co.jp/info/docget.jsp?type=datasheet&lang=en&pid=HN1D02FU
+$ENDCMP
+#
+$CMP Comchip_CDSV6-4448AQ-G
+D High speed switching diode array 2 pair Com K
+K diode
+F http://www.comchiptech.com/cms/UserFiles/CDSV6-4448XX-G%20RevC285898.pdf
+$ENDCMP
+#
 #
 #End Doc Library
