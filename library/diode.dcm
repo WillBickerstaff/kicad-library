@@ -332,5 +332,41 @@ K diode
 F http://www.toshiba.com/taec/components2/Datasheet_Sync/200908/DST_HN2D02FU-TDE_EN_1906.pdf
 $ENDCMP
 #
+$CMP BAV756
+D Quad High-speed switching diode array Com K / Com A
+K diode
+F http://www.nxp.com/documents/data_sheet/BAV756S_BAW56_SER.pdf
+$ENDCMP
+#
+$CMP BAW567DW
+D Quad switching diode array Com K / Com A
+K diode
+F http://www.diodes.com/datasheets/ds30147.pdf
+$ENDCMP
+#
+$CMP MMBD4448HCQW
+D Quad Switching Diode Array Common Cathode
+K diode
+F http://www.diodes.com/datasheets/ds30153.pdf
+$ENDCMP
+#
+$CMP Panasonic_MA5J002E
+D Quad Ultra high Speed Switching Diode Array Common Cathode
+K diode
+F http://www.semicon.panasonic.co.jp/ds4/MA5J002E_BED_discon.pdf
+$ENDCMP
+#
+$CMP Rohm_UMN1N
+D Quad Ultra high Speed Switching Diode Array Common Cathode
+K diode
+F http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/diode/switching/umn1n.pdf
+$ENDCMP
+#
+$CMP Rohm_UMR11N
+D High frequency switching diode array Com K / Com A
+K diode
+F http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/diode/switching/umr11n.pdf
+$ENDCMP
+#
 #
 #End Doc Library
