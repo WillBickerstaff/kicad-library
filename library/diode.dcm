@@ -103,13 +103,6 @@ K diode
 F http://www.onsemi.com/pub_link/Collateral/HN2D02FUTW1T1-D.PDF
 $ENDCMP
 #
-$CMP Toshiba_HN2D02FU
-D Ultra high speed switching diode array 3 independent
-K diode
-F http://www.toshiba.com/taec/components2/Datasheet_Sync/200908/DST_HN2D02FU-TDE_EN_1906.pdf
-$ENDCMP
-#
-#
 $CMP BAS40TW
 D Schottky diode array 3 independent
 K diode schottky
@@ -320,16 +313,10 @@ K diode
 F http://www.diodes.com/datasheets/ds30153.pdf
 $ENDCMP
 #
-$CMP ON_Semi_HN2D02FUTW1T1G
+$CMP HN2D02FU
 D Ultra high speed switching diode array 3 independent
 K diode
 F http://www.onsemi.com/pub_link/Collateral/HN2D02FUTW1T1-D.PDF
-$ENDCMP
-#
-$CMP Toshiba_HN2D02FU
-D Ultra high speed switching diode array 3 independent
-K diode
-F http://www.toshiba.com/taec/components2/Datasheet_Sync/200908/DST_HN2D02FU-TDE_EN_1906.pdf
 $ENDCMP
 #
 $CMP BAV756
